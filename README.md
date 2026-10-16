@@ -5,7 +5,7 @@
 I write mostly TypeScript, and I like building the backend that an ML model plugs into.
 
 <a href="https://github.com/vaidii2008">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+a+crypto+exchange+from+scratch;Writing+my+own+database%2C+for+fun;MSc+AI%2FML%2C+University+of+Limerick;Open+to+SDE+and+AI+engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Applied+AI+and+full-stack+web+dev;TypeScript%2C+React%2C+Next.js+and+Node.js;Python%2C+PyTorch+and+RAG+pipelines;Backend+APIs+with+Postgres+and+Redis" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidhyam-gautam-766973215/)
